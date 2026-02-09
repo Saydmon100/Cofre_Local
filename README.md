@@ -17,4 +17,4 @@ O objetivo é demonstrar um fluxo de autenticação **local** (sem internet e se
 1. Baixe/clonar o repositório
 2. No terminal, dentro da pasta do projeto, execute:
    ```bash
-   python app.py
+   login.py
