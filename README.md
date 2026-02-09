@@ -1,4 +1,4 @@
-# CofreLocal — Login Offline (IHC)
+# CofreLocal
 
 ## Descrição
 O **CofreLocal** é um sistema de login **offline** criado para a atividade de Interação Humano–Computador (IHC).  
